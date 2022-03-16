@@ -8,6 +8,11 @@ My roadmap to study Data Science.
 
 ## Programming
 
+### Data Science
+#### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
+| Foundations of Data Science | A. Blum, J. Hopcroft | *In progress* |
 
 ### Deep Learning
 #### Courses
@@ -19,12 +24,21 @@ My roadmap to study Data Science.
 | --- | :---: | :---: |
 | Грокаем глубокое обучение | Эндрю Траск | *In progress* |
 | Reinforcement learning | Sutton R. | *In progress* |
+| Neural Networks | Simo O. Haykin | *In progress* |
 
 ### MLOps
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | **In progress** |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | *In progress* |
+
+### Databases
+#### SQL
+| URL | Title | Status |
+| :---: | --- | :---: |
+#### NoSQL
+| URL | Title | Status |
+| :---: | --- | :---: |
 
 
 ## Mathematics
