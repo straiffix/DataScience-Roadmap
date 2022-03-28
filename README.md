@@ -22,7 +22,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Грокаем глубокое обучение | Эндрю Траск | *In progress* |
+| Грокаем глубокое обучение | Эндрю Траск | *In progress 10%* |
 | Reinforcement learning | Sutton R. | *In progress* |
 | Neural Networks | Simo O. Haykin | *In progress* |
 
@@ -30,7 +30,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | *In progress* |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | **Completed** |
 
 ### Databases
 #### SQL
@@ -38,6 +38,7 @@ My roadmap to study Data Science.
 | :---: | --- | :---: |
 #### NoSQL
 | URL | Title | Status |
+| :---: | elastic search | *In progress* |
 | :---: | --- | :---: |
 
 
